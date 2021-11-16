@@ -1,2 +1,2 @@
 # Convo-Chat-App
-Realtime Chat Application using Socket io
+This is a realtime chat application made using HTLM, CSS, JavaScript and Socket.IO libraries. Right now it workes in my own server only but after deployment it can be scaled for production.
